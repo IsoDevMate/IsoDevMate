@@ -80,7 +80,7 @@ Here are some of my recent articles:
 - [Creating Interactive UI Elements with Framer Motion](https://kodaschool.com/blog/creaing-interactive-ui-elements-with-framer-motion)
 - [Stripe Payments Made Easy: Checkout and Email Automation with SendGrid (Part 2)](https://kodaschool.com/blog/stripe-payments-made-easy-checkout-and-email-automation-with-sendgrid-part-2)
 - [Stripe Checkout Integration & SendGrid Email Notification](https://kodaschool.com/blog/stripe-checkout-intergration-sendgrid-email-notification)
-
+- [Engineering Review About my laptop](https://www.linkedin.com/pulse/lenovo-yoga-7i-journey-from-developer-unwilling-hardware-barack-ouma-s8laf)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isodevmate&show_icons=true&locale=en&layout=compact" alt="isodevmate" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isodevmate&show_icons=true&locale=en" alt="isodevmate" /></p>
