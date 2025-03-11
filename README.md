@@ -81,6 +81,7 @@ Here are some of my recent articles:
 - [Stripe Payments Made Easy: Checkout and Email Automation with SendGrid (Part 2)](https://kodaschool.com/blog/stripe-payments-made-easy-checkout-and-email-automation-with-sendgrid-part-2)
 - [Stripe Checkout Integration & SendGrid Email Notification](https://kodaschool.com/blog/stripe-checkout-intergration-sendgrid-email-notification)
 - [Engineering Review About my laptop](https://www.linkedin.com/pulse/lenovo-yoga-7i-journey-from-developer-unwilling-hardware-barack-ouma-s8laf)
+- [Mpesa Daraja 2.0 + tRPC](https://kodaschool.com/blog/Intergration-mpesa-daraja-and-daraja-2.0)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isodevmate&show_icons=true&locale=en&layout=compact" alt="isodevmate" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isodevmate&show_icons=true&locale=en" alt="isodevmate" /></p>
