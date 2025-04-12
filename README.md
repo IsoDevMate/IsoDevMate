@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=BARACK_OUMA&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20JavaScript%20Enthusiast%20|%20Tech%20Innovator&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=BARACK_OUMA&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Typescript%20All%20The%20Way%20%20| &descAlignY=51&descAlign=62" width="100%" />
 </div>
 
 <p align="center">
@@ -73,64 +73,58 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Dev Cards
 
-<div align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 20px;">
-  <div>
-    <h3>Daily.dev</h3>
+<div align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 40px; margin: 30px 0;">
+  <div style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 15px; border-radius: 10px; background: #1e1e2e;">
+    <h3 style="color: #cba6f7; margin-bottom: 15px;">Daily Dev</h3>
     <a href="https://app.daily.dev/barackouma">
-      <img src="https://api.daily.dev/devcards/03e5b0bff1794c349327ce1bdef21806.png?r=p56" width="350" alt="Barack _ Ouma's Dev Card" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+      <img src="https://api.daily.dev/devcards/03e5b0bff1794c349327ce1bdef21806.png?r=p56" width="350" alt="Barack _ Ouma's Dev Card"/>
     </a>
   </div>
   
-  <div>
-    <h3>LeetCode Stats</h3>
+  <div style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 15px; border-radius: 10px; background: #1e1e2e;">
+    <h3 style="color: #cba6f7; margin-bottom: 15px;">LeetCode Stats</h3>
     <a href="https://leetcode.com/isodevmate/">
-      <img src="https://leetcard.jacoblin.cool/isodevmate?theme=dark&font=Noto%20Sans&ext=heatmap&animation=true" width="350" height="250" alt="Leetcode Stats" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+      <img src="https://leetcard.jacoblin.cool/isodevmate?width=350&height=250&animation=true&ext=heatmap" alt="Leetcode Stats"/>
     </a>
   </div>
 </div>
 
-## <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="25"> Recent Articles
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://kodaschool.com/blog/how-to-seamlessly-roll-auth-into-your-react-app-using-firebase-authentication">
-          <img src="https://img.shields.io/badge/-Firebase%20Auth%20with%20React-FF7139?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Auth with React" />
-        </a>
-      </td>
-      <td>
-        <a href="https://kodaschool.com/blog/creaing-interactive-ui-elements-with-framer-motion">
-          <img src="https://img.shields.io/badge/-Framer%20Motion%20UI-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion UI" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://kodaschool.com/blog/stripe-payments-made-easy-checkout-and-email-automation-with-sendgrid-part-2">
-          <img src="https://img.shields.io/badge/-Stripe%20%26%20SendGrid%20Part%202-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe & SendGrid" />
-        </a>
-      </td>
-      <td>
-        <a href="https://kodaschool.com/blog/stripe-checkout-intergration-sendgrid-email-notification">
-          <img src="https://img.shields.io/badge/-Stripe%20Checkout-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe Checkout" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/pulse/lenovo-yoga-7i-journey-from-developer-unwilling-hardware-barack-ouma-s8laf">
-          <img src="https://img.shields.io/badge/-Lenovo%20Yoga%20Review-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lenovo Yoga Review" />
-        </a>
-      </td>
-      <td>
-        <a href="https://kodaschool.com/blog/Intergration-mpesa-daraja-and-daraja-2.0">
-          <img src="https://img.shields.io/badge/-Mpesa%20Daraja%20%2B%20tRPC-00AB6C?style=for-the-badge&logo=mpesa&logoColor=white" alt="Mpesa Daraja" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+## 📝 Latest Blog Articles
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://kodaschool.com/blog/how-to-seamlessly-roll-auth-into-your-react-app-using-firebase-authentication">How to Seamlessly Roll Auth into Your React App using Firebase Authentication</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://kodaschool.com/blog/creaing-interactive-ui-elements-with-framer-motion">Creating Interactive UI Elements with Framer Motion</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://kodaschool.com/blog/stripe-payments-made-easy-checkout-and-email-automation-with-sendgrid-part-2">Stripe Payments Made Easy: Checkout and Email Automation with SendGrid (Part 2)</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://kodaschool.com/blog/stripe-checkout-intergration-sendgrid-email-notification">Stripe Checkout Integration & SendGrid Email Notification</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/pulse/lenovo-yoga-7i-journey-from-developer-unwilling-hardware-barack-ouma-s8laf">Engineering Review About my laptop</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://kodaschool.com/blog/Intergration-mpesa-daraja-and-daraja-2.0">Mpesa Daraja 2.0 + tRPC</a>
+    </td>
+  </tr>
+</table>
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me
 
@@ -146,12 +140,6 @@
   </a>
 </div>
 
-<div align="center">
-  <h3>✨ Support Me</h3>
-  <a href="https://www.buymeacoffee.com/barackouma">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://github.com/isodevmate/isodevmate/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
