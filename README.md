@@ -75,7 +75,7 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
-![](https://leetcard.jacoblin.cool/isodevmate?width=500&height=500&animation=false&ext=heatmap)
+![](https://leetcard.jacoblin.cool/isodevmate?width=500&height=300&animation=false&ext=heatmap)
 
 ### Blog Articles
 Here are some of my recent articles:
