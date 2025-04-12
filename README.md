@@ -59,7 +59,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isodevmate&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="isodevmate github stats" width="49%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=isodevmate&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="isodevmate github stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isodevmate&hide_border=true&stroke=58a6ff&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="isodevmate streak stats" width="49%" />
 </div>
 
@@ -73,14 +73,14 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Dev Cards
 
-<div align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 40px; margin: 30px 0;">
+<div align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 60px; margin: 30px 0;">
   <div style="box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); padding: 15px; border-radius: 10px; background: #0d1117; border: 1px solid #30363d;">
     <h3 style="color: #58a6ff; margin-bottom: 15px; text-align: center;">Daily Dev</h3>
     <a href="https://app.daily.dev/barackouma">
       <img src="https://api.daily.dev/devcards/03e5b0bff1794c349327ce1bdef21806.png?r=p56" width="350" alt="Barack _ Ouma's Dev Card"/>
     </a>
   </div>
-  
+
   <div style="box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); padding: 15px; border-radius: 10px; background: #0d1117; border: 1px solid #30363d;">
     <h3 style="color: #58a6ff; margin-bottom: 15px; text-align: center;">LeetCode Stats</h3>
     <a href="https://leetcode.com/isodevmate/">
