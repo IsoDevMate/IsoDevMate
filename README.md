@@ -75,7 +75,7 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=isodevmate&animated=true" alt="LeetCode Badges" />
+![](https://leetcard.jacoblin.cool/isodevmate?width=500&height=500&animation=false&ext=heatmap)
 
 ### Blog Articles
 Here are some of my recent articles:
