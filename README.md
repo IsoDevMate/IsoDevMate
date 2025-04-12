@@ -1,15 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=300&section=header&text=BARACK_OUMA&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20 | &descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=300&section=header&text=BARACK_OUMA&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=51&descAlign=62" width="100%" />
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58a6ff&center=true&vCenter=true&width=440&lines=254+Backend+Product;Node.js+%26+Express+Expert;MongoDB+Specialist;API+Developer;Always+Learning" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58a6ff&center=true&vCenter=true&width=440&lines=Backend+Developer;Frontend+Developer;Full+Stack+Engineer;Cloud+Architecture;Always+Learning" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isodevmate&label=Profile%20Views&color=58a6ff&style=flat" alt="isodevmate" />
   <img src="https://img.shields.io/github/followers/isodevmate?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/twitter/follow/barackouma7?style=social" alt="Twitter Follow" />
+</p>
+
+## Connect with me:
+<p align="left">
+  <a href="https://twitter.com/barackouma7" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barackouma7" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/barack-ouma-b37089212" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/ba.ra.ck_o.u.ma/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
 <details>
@@ -30,26 +43,54 @@
           <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
           <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
           <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-          <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
-          <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
+          <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React Native" height="50" /></a>
+          <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
         </div>
       </td>
       <td valign="top" width="33%">
         <h3>Backend</h3>
         <div align="center">
           <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-          <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-          <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-          <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
+          <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>
+          <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+          <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>
+          <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
         </div>
       </td>
       <td valign="top" width="33%">
-        <h3>Tools & Others</h3>
+        <h3>Tools & Cloud</h3>
         <div align="center">
           <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-          <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>
-          <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a>
+          <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
+          <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>
+          <a href="https://www.pulumi.com/" target="_blank"><img style="margin: 10px" src="https://www.pulumi.com/logos/brand/avatar-on-white.svg" alt="Pulumi" height="50" /></a>
+          <a href="https://insomnia.rest/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="Insomnia" height="50" /></a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="33%">
+        <h3>Databases</h3>
+        <div align="center">
+          <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+          <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+          <a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="50" /></a>
+          <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="50" /></a>
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3>Mobile</h3>
+        <div align="center">
+          <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" height="50" /></a>
+          <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="50" /></a>
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3>Other</h3>
+        <div align="center">
+          <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="50" /></a>
           <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+          <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a>
         </div>
       </td>
     </tr>
@@ -58,13 +99,16 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isodevmate&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="isodevmate github stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isodevmate&hide_border=true&stroke=58a6ff&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="isodevmate streak stats" width="49%" />
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isodevmate&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="38%" alt="isodevmate top languages" />
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=isodevmate&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="isodevmate github stats" width="56%" /> 
 </div>
 
+<br><br><br><br><br><br><br><br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isodevmate&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="38%" alt="isodevmate top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isodevmate&hide_border=true&stroke=58a6ff&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="isodevmate streak stats" />
 </div>
 
 <div align="center">
@@ -73,19 +117,21 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Dev Cards
 
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
-  <a href="https://app.daily.dev/barackouma">
-    <img src="https://api.daily.dev/devcards/03e5b0bff1794c349327ce1bdef21806.png?r=p56" width="350" alt="Barack _ Ouma's Dev Card"/>
-  </a>
-
-  <a href="https://leetcode.com/isodevmate/">
-    <img src="https://leetcard.jacoblin.cool/isodevmate?width=350&height=250&animation=true&ext=heatmap" alt="Leetcode Stats"/>
-  </a>
+<div align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 60px; margin: 30px 0;">
+  <div style="box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); padding: 20px; border-radius: 10px; background: #0d1117; border: 1px solid #30363d;">
+    <h3 style="color: #58a6ff; margin-bottom: 15px; text-align: center;">Daily Dev</h3>
+    <a href="https://app.daily.dev/barackouma">
+      <img src="https://api.daily.dev/devcards/03e5b0bff1794c349327ce1bdef21806.png?r=p56" width="350" alt="Barack _ Ouma's Dev Card"/>
+    </a>
+  </div>
+  
+  <div style="box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); padding: 20px; border-radius: 10px; background: #0d1117; border: 1px solid #30363d;">
+    <h3 style="color: #58a6ff; margin-bottom: 15px; text-align: center;">LeetCode Stats</h3>
+    <a href="https://leetcode.com/isodevmate/">
+      <img src="https://leetcard.jacoblin.cool/isodevmate?width=350&height=250&animation=true&ext=heatmap&theme=dark" alt="Leetcode Stats"/>
+    </a>
+  </div>
 </div>
-<h3 style="color: #58a6ff; margin-bottom: 15px; text-align: center;">LeetCode Stats</h3>
-<a href="https://leetcode.com/isodevmate/">
-  <img src="https://leetcard.jacoblin.cool/isodevmate?width=350&height=250&animation=true&ext=heatmap&theme=dark" alt="Leetcode Stats"/>
-</a>
 
 ## <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="25"> Recent Articles
 
@@ -121,27 +167,6 @@
     </td>
   </tr>
 </table>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me
-
-<div align="center">
-  <a href="https://twitter.com/barackouma7" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/barack-ouma-b37089212" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/ba.ra.ck_o.u.ma/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
-<div align="center">
-  <h3>✨ Support Me</h3>
-  <a href="https://www.buymeacoffee.com/barackouma">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://github.com/isodevmate/isodevmate/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
