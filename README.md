@@ -91,8 +91,6 @@
 
 ## <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="25"> Recent Articles
 
-## 📝 Latest Blog Articles
-
 <table align="center">
   <tr>
     <td>
