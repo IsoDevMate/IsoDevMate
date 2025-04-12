@@ -103,14 +103,15 @@
 </div>
 
 <br><br><br><br><br><br><br><br>
-
+```markdown
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isodevmate&hide_border=true&stroke=58a6ff&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="isodevmate streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isodevmate&hide_border=true&stroke=58a6ff&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&dates=ffffff&sideLabels=ffffff" alt="isodevmate streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isodevmate&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isodevmate&theme=github_dark&text_color=ffffff" width="100%" />
 </div>
+```
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Dev Cards
 
