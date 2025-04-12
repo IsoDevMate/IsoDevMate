@@ -72,22 +72,21 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Dev Cards
+```markdown
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
+  <a href="https://app.daily.dev/barackouma">
+    <img src="https://api.daily.dev/devcards/03e5b0bff1794c349327ce1bdef21806.png?r=p56" width="350" alt="Barack _ Ouma's Dev Card"/>
+  </a>
 
-<div align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 60px; margin: 30px 0;">
-  <div style="box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); padding: 15px; border-radius: 10px; background: #0d1117; border: 1px solid #30363d;">
-    <h3 style="color: #58a6ff; margin-bottom: 15px; text-align: center;">Daily Dev</h3>
-    <a href="https://app.daily.dev/barackouma">
-      <img src="https://api.daily.dev/devcards/03e5b0bff1794c349327ce1bdef21806.png?r=p56" width="350" alt="Barack _ Ouma's Dev Card"/>
-    </a>
-  </div>
-
-  <div style="box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); padding: 15px; border-radius: 10px; background: #0d1117; border: 1px solid #30363d;">
-    <h3 style="color: #58a6ff; margin-bottom: 15px; text-align: center;">LeetCode Stats</h3>
-    <a href="https://leetcode.com/isodevmate/">
-      <img src="https://leetcard.jacoblin.cool/isodevmate?width=350&height=250&animation=true&ext=heatmap&theme=dark" alt="Leetcode Stats"/>
-    </a>
-  </div>
+  <a href="https://leetcode.com/isodevmate/">
+    <img src="https://leetcard.jacoblin.cool/isodevmate?width=350&height=250&animation=true&ext=heatmap" alt="Leetcode Stats"/>
+  </a>
 </div>
+<h3 style="color: #58a6ff; margin-bottom: 15px; text-align: center;">LeetCode Stats</h3>
+<a href="https://leetcode.com/isodevmate/">
+  <img src="https://leetcard.jacoblin.cool/isodevmate?width=350&height=250&animation=true&ext=heatmap&theme=dark" alt="Leetcode Stats"/>
+</a>
+```
 
 ## <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="25"> Recent Articles
 
