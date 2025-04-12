@@ -41,9 +41,7 @@
         <h3>Frontend</h3>
         <div align="center">
           <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-          <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
           <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-          <a href="https://reactnative.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React Native" height="50" /></a>
           <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
         </div>
       </td>
@@ -64,7 +62,6 @@
           <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
           <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>
           <a href="https://www.pulumi.com/" target="_blank"><img style="margin: 10px" src="https://www.pulumi.com/logos/brand/avatar-on-white.svg" alt="Pulumi" height="50" /></a>
-          <a href="https://insomnia.rest/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="Insomnia" height="50" /></a>
         </div>
       </td>
     </tr>
@@ -101,8 +98,8 @@
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isodevmate&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="38%" alt="isodevmate top languages" />
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=isodevmate&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="isodevmate github stats" width="56%" /> 
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=isodevmate&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="isodevmate github stats" width="56%" />
 </div>
 
 <br><br><br><br><br><br><br><br>
@@ -124,7 +121,7 @@
       <img src="https://api.daily.dev/devcards/03e5b0bff1794c349327ce1bdef21806.png?r=p56" width="350" alt="Barack _ Ouma's Dev Card"/>
     </a>
   </div>
-  
+
   <div style="box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); padding: 20px; border-radius: 10px; background: #0d1117; border: 1px solid #30363d;">
     <h3 style="color: #58a6ff; margin-bottom: 15px; text-align: center;">LeetCode Stats</h3>
     <a href="https://leetcode.com/isodevmate/">
@@ -167,10 +164,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://github.com/isodevmate/isodevmate/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer" width="100%" />
