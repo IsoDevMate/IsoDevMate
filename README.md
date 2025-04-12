@@ -75,6 +75,8 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=isodevmate&theme=dark&border=border&animated=true" alt="LeetCode Badges" />
+
 ### Blog Articles
 Here are some of my recent articles:
 
