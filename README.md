@@ -73,7 +73,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Dev Cards
 
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 40px; margin-top: 20px;">
   <a href="https://app.daily.dev/barackouma">
     <img src="https://api.daily.dev/devcards/03e5b0bff1794c349327ce1bdef21806.png?r=p56" width="350" alt="Barack _ Ouma's Dev Card"/>
   </a>
