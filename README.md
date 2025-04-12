@@ -91,46 +91,40 @@
 
 ## <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="25"> Recent Articles
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://kodaschool.com/blog/how-to-seamlessly-roll-auth-into-your-react-app-using-firebase-authentication">
-          <img src="https://img.shields.io/badge/-Firebase%20Auth%20with%20React-232F3E?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Auth with React" />
-        </a>
-      </td>
-      <td>
-        <a href="https://kodaschool.com/blog/creaing-interactive-ui-elements-with-framer-motion">
-          <img src="https://img.shields.io/badge/-Framer%20Motion%20UI-232F3E?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion UI" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://kodaschool.com/blog/stripe-payments-made-easy-checkout-and-email-automation-with-sendgrid-part-2">
-          <img src="https://img.shields.io/badge/-Stripe%20%26%20SendGrid%20Part%202-232F3E?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe & SendGrid" />
-        </a>
-      </td>
-      <td>
-        <a href="https://kodaschool.com/blog/stripe-checkout-intergration-sendgrid-email-notification">
-          <img src="https://img.shields.io/badge/-Stripe%20Checkout-232F3E?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe Checkout" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/pulse/lenovo-yoga-7i-journey-from-developer-unwilling-hardware-barack-ouma-s8laf">
-          <img src="https://img.shields.io/badge/-Lenovo%20Yoga%20Review-232F3E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lenovo Yoga Review" />
-        </a>
-      </td>
-      <td>
-        <a href="https://kodaschool.com/blog/Intergration-mpesa-daraja-and-daraja-2.0">
-          <img src="https://img.shields.io/badge/-Mpesa%20Daraja%20%2B%20tRPC-232F3E?style=for-the-badge&logo=mpesa&logoColor=white" alt="Mpesa Daraja" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+## 📝 Latest Blog Articles
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://kodaschool.com/blog/how-to-seamlessly-roll-auth-into-your-react-app-using-firebase-authentication">How to Seamlessly Roll Auth into Your React App using Firebase Authentication</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://kodaschool.com/blog/creaing-interactive-ui-elements-with-framer-motion">Creating Interactive UI Elements with Framer Motion</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://kodaschool.com/blog/stripe-payments-made-easy-checkout-and-email-automation-with-sendgrid-part-2">Stripe Payments Made Easy: Checkout and Email Automation with SendGrid (Part 2)</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://kodaschool.com/blog/stripe-checkout-intergration-sendgrid-email-notification">Stripe Checkout Integration & SendGrid Email Notification</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/pulse/lenovo-yoga-7i-journey-from-developer-unwilling-hardware-barack-ouma-s8laf">Engineering Review About my laptop</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://kodaschool.com/blog/Intergration-mpesa-daraja-and-daraja-2.0">Mpesa Daraja 2.0 + tRPC</a>
+    </td>
+  </tr>
+</table>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me
 
