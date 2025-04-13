@@ -105,7 +105,7 @@
 <br><br><br><br><br><br><br><br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isodevmate&hide_border=true&stroke=58a6ff&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&totalNum=ffffff&longestStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" alt="isodevmate streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=isodevmate&theme=dark&background=0D1117&border=0D1117&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=ffffff&dates=ffffff" alt="isodevmate streak stats" />
 </div>
 
 <div align="center">
