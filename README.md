@@ -1,9 +1,19 @@
+To customize your GitHub profile based on the updates you mentioned, here’s how you can refine it:
+
+- Update the bio to include "building stories through software" as requested.
+- Enhance the "Engineering Metrics & Code Stories" section with your tools (AWS, Insomnia, Jenkins, CircleCI) and fix the contribution streak display.
+- Adjust the layout to place "Chronicles & Configurations" side by side.
+- Update the Spotify integration with the correct link and ensure it displays properly.
+- Improve the overall table and section styling for a cleaner look.
+
+Here’s the updated version of your profile README:
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:16213e,50:2d4a6b,75:1e3a5f,100:0f172a&height=300&section=header&text=BARACK_OUMA&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Deep%20Dive%20Engineer%20%7C%20Story%20Architect&descAlignY=51&descAlign=62&fontColor=38bdf8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:16213e,50:2d4a6b,75:1e3a5f,100:0f172a&height=300§ion=header&text=BARACK_OUMA&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Deep%20Dive%20Engineer%20%7C%20Story%20Architect%20%7C%20Building%20Stories%20Through%20Software&descAlignY=51&descAlign=62&fontColor=38bdf8" width="100%" />
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=38bdf8&center=true&vCenter=true&width=700&lines=Deep+Dive+Engineer+%7C+Code+Archaeologist;Lua+Wizard+%26+Bash+Poet;Neovim+Configuration+Craftsman;Memory+Optimizer+%26+System+Whisperer;Building+Stories+Through+Software" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=38bdf8¢er=true&vCenter=true&width=700&lines=Deep+Dive+Engineer+%7C+Code+Archaeologist;Lua+Wizard+%26+Bash+Poet;Neovim+Configuration+Craftsman;Memory+Optimizer+%26+System+Whisperer;Building+Stories+Through+Software" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -121,8 +131,9 @@ I'm Barack—a software engineer obsessed with **understanding the why** behind 
         <h3 align="center">🔍 Analysis & Debug</h3>
         <div align="center">
           <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="55" /></a>
-          <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=38bdf8" alt="Performance" height="55" />
-          <img src="https://img.icons8.com/?size=100&id=39292&format=png&color=38bdf8" alt="Debug" height="55" />
+          <a href="https://aws.amazon.com/insomnia/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=38bdf8" alt="Insomnia" height="55" /></a>
+          <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="55" /></a>
+          <a href="https://circleci.com/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=100&id=39292&format=png&color=38bdf8" alt="CircleCI" height="55" /></a>
         </div>
       </td>
     </tr>
@@ -134,7 +145,7 @@ I'm Barack—a software engineer obsessed with **understanding the why** behind 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Engineering Metrics & Code Stories
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isodevmate&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=06b6d4&text_color=e2e8f0&bg_color=0f172a&border_color=1e293b&custom_title=Engineering%20Stats" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isodevmate&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a&border_color=1e293b&custom_title=Engineering%20Stats&custom_message=Tools:%20AWS,%20Insomnia,%20Jenkins,%20CircleCI%20|%20Total%20Stars:%2044%20|%20Total%20Commits:%20267%20|%20Total%20PRs:%2085%20|%20Total%20Issues:%207%20|%20Contributed%20(last%20year):%204" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isodevmate&layout=compact&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a&border_color=1e293b&custom_title=Language%20Deep%20Dives" width="48%" alt="Top Languages" />
 </div>
 
@@ -150,19 +161,64 @@ I'm Barack—a software engineer obsessed with **understanding the why** behind 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Chronicles & Configurations
 
-<div align="center" style="display: flex; justify-content: space-around; margin: 30px 0;">
-  <div style="text-align: center;">
-    <h3 style="color: #38bdf8; margin-bottom: 15px;">🌅 Daily Engineering Journey</h3>
-    <a href="https://app.daily.dev/barackouma">
-      <img src="https://api.daily.dev/devcards/03e5b0bff1794c349327ce1bdef21806.png?r=p56" width="300" alt="Barack Ouma's Dev Card"/>
-    </a>
+<div style="display: flex; justify-content: space-around; margin: 30px 0;">
+  <div style="text-align: center; width: 45%;">
+    <h3 style="color: #38bdf8; margin-bottom: 15px;">🔥 Signature Configurations & Deep Dives</h3>
+    <table cellpadding="12" style="border: 2px solid #1e293b; border-radius: 8px; background: #0f172a; width: 100%;">
+      <tr>
+        <td style="color: #e2e8f0; padding: 10px;">
+          <a href="#" style="color: #38bdf8; text-decoration: none; font-weight: bold;">⚡ My Neovim Lua Configuration</a>
+          <br><small style="color: #94a3b8;">Custom-built development environment optimized for deep work</small>
+        </td>
+      </tr>
+      <tr>
+        <td style="color: #e2e8f0; padding: 10px;">
+          <a href="#" style="color: #38bdf8; text-decoration: none; font-weight: bold;">🐚 Bash Automation Scripts</a>
+          <br><small style="color: #94a3b8;">System administration poetry in shell scripting</small>
+        </td>
+      </tr>
+      <tr>
+        <td style="color: #e2e8f0; padding: 10px;">
+          <a href="#" style="color: #38bdf8; text-decoration: none; font-weight: bold;">🧠 Memory Management Deep Dive</a>
+          <br><small style="color: #94a3b8;">Understanding system resources at the bit level</small>
+        </td>
+      </tr>
+    </table>
   </div>
-  
-  <div style="text-align: center;">
-    <h3 style="color: #38bdf8; margin-bottom: 15px;">🧩 Algorithm Adventures</h3>
-    <a href="https://leetcode.com/isodevmate/">
-      <img src="https://leetcard.jacoblin.cool/isodevmate?theme=nord&font=Karma&ext=heatmap" width="300" alt="Leetcode Stats"/>
-    </a>
+  <div style="text-align: center; width: 45%;">
+    <h3 style="color: #38bdf8; margin-bottom: 15px;">📚 Technical Chronicles & Tutorials</h3>
+    <table cellpadding="12" style="border: 2px solid #1e293b; border-radius: 8px; background: #0f172a; width: 100%;">
+      <tr>
+        <td style="color: #e2e8f0; padding: 8px;">
+          <a href="https://kodaschool.com/blog/how-to-seamlessly-roll-auth-into-your-react-app-using-firebase-authentication" style="color: #06b6d4; text-decoration: none;">🔐 Firebase Authentication Deep Dive</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="color: #e2e8f0; padding: 8px;">
+          <a href="https://kodaschool.com/blog/creaing-interactive-ui-elements-with-framer-motion" style="color: #06b6d4; text-decoration: none;">✨ Framer Motion: Physics in UI</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="color: #e2e8f0; padding: 8px;">
+          <a href="https://kodaschool.com/blog/stripe-payments-made-easy-checkout-and-email-automation-with-sendgrid-part-2" style="color: #06b6d4; text-decoration: none;">💳 Payment Systems Architecture (Part 2)</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="color: #e2e8f0; padding: 8px;">
+          <a href="https://kodaschool.com/blog/stripe-checkout-intergration-sendgrid-email-notification" style="color: #06b6d4; text-decoration: none;">📧 E-commerce Integration Stories</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="color: #e2e8f0; padding: 8px;">
+          <a href="https://kodaschool.com/blog/Intergration-mpesa-daraja-and-daraja-2.0" style="color: #06b6d4; text-decoration: none;">📱 African Fintech: M-Pesa & tRPC</a>
+        </td>
+      </tr>
+      <tr>
+        <td style="color: #e2e8f0; padding: 8px;">
+          <a href="https://www.linkedin.com/pulse/lenovo-yoga-7i-journey-from-developer-unwilling-hardware-barack-ouma-s8laf" style="color: #06b6d4; text-decoration: none;">💻 Hardware Chronicles: A Developer's Perspective</a>
+        </td>
+      </tr>
+    </table>
   </div>
 </div>
 
@@ -172,73 +228,13 @@ I'm Barack—a software engineer obsessed with **understanding the why** behind 
 
 <div align="center">
   <a href="https://open.spotify.com/user/31xch27rgjs7k4dstc5wtw33omkm">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31xch27rgjs7k4dstc5wtw33omkm&cover_image=true&theme=novatorem&show_offline=false&background_color=0f172a&interchange=true&bar_color=38bdf8&bar_color_cover=true" alt="Spotify Now Playing" width="400" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31xch27rgjs7k4dstc5wtw33omkm&redirect=true&cover_image=true&theme=default&show_offline=false&background_color=0f172a&interchange=true" alt="Spotify Now Playing" width="400" />
   </a>
 </div>
 
 ---
 
 ## <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="25"> Featured Engineering Stories
-
-### 🔥 Signature Configurations & Deep Dives
-
-<table align="center" cellpadding="12" style="border: 2px solid #1e293b; border-radius: 8px; background: #0f172a;">
-  <tr>
-    <td style="color: #e2e8f0; padding: 10px;">
-      <a href="#" style="color: #38bdf8; text-decoration: none; font-weight: bold;">⚡ My Neovim Lua Configuration</a>
-      <br><small style="color: #94a3b8;">Custom-built development environment optimized for deep work</small>
-    </td>
-  </tr>
-  <tr>
-    <td style="color: #e2e8f0; padding: 10px;">
-      <a href="#" style="color: #38bdf8; text-decoration: none; font-weight: bold;">🐚 Bash Automation Scripts</a>
-      <br><small style="color: #94a3b8;">System administration poetry in shell scripting</small>
-    </td>
-  </tr>
-  <tr>
-    <td style="color: #e2e8f0; padding: 10px;">
-      <a href="#" style="color: #38bdf8; text-decoration: none; font-weight: bold;">🧠 Memory Management Deep Dive</a>
-      <br><small style="color: #94a3b8;">Understanding system resources at the bit level</small>
-    </td>
-  </tr>
-</table>
-
-### 📚 Technical Chronicles & Tutorials
-
-<table align="center" cellpadding="12" style="border: 2px solid #1e293b; border-radius: 8px; background: #0f172a; margin-top: 20px;">
-  <tr>
-    <td style="color: #e2e8f0; padding: 8px;">
-      <a href="https://kodaschool.com/blog/how-to-seamlessly-roll-auth-into-your-react-app-using-firebase-authentication" style="color: #06b6d4; text-decoration: none;">🔐 Firebase Authentication Deep Dive</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="color: #e2e8f0; padding: 8px;">
-      <a href="https://kodaschool.com/blog/creaing-interactive-ui-elements-with-framer-motion" style="color: #06b6d4; text-decoration: none;">✨ Framer Motion: Physics in UI</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="color: #e2e8f0; padding: 8px;">
-      <a href="https://kodaschool.com/blog/stripe-payments-made-easy-checkout-and-email-automation-with-sendgrid-part-2" style="color: #06b6d4; text-decoration: none;">💳 Payment Systems Architecture (Part 2)</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="color: #e2e8f0; padding: 8px;">
-      <a href="https://kodaschool.com/blog/stripe-checkout-intergration-sendgrid-email-notification" style="color: #06b6d4; text-decoration: none;">📧 E-commerce Integration Stories</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="color: #e2e8f0; padding: 8px;">
-      <a href="https://kodaschool.com/blog/Intergration-mpesa-daraja-and-daraja-2.0" style="color: #06b6d4; text-decoration: none;">📱 African Fintech: M-Pesa & tRPC</a>
-    </td>
-  </tr>
-  <tr>
-    <td style="color: #e2e8f0; padding: 8px;">
-      <a href="https://www.linkedin.com/pulse/lenovo-yoga-7i-journey-from-developer-unwilling-hardware-barack-ouma-s8laf" style="color: #06b6d4; text-decoration: none;">💻 Hardware Chronicles: A Developer's Perspective</a>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 💭 Engineering Philosophy
 
@@ -247,5 +243,5 @@ I'm Barack—a software engineer obsessed with **understanding the why** behind 
 *When I'm not diving into memory allocations or crafting Lua configurations, you'll find me optimizing my Neovim setup, writing Bash poetry, or exploring the intricate dance between hardware and software. Every system has layers—and every layer has a story.*
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:16213e,50:2d4a6b,75:1e3a5f,100:0f172a&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:16213e,50:2d4a6b,75:1e3a5f,100:0f172a&height=120§ion=footer" width="100%" />
 </div>
