@@ -21,12 +21,6 @@
 
 I'm Barack—a software engineer obsessed with **understanding the why** behind the what. While others build features, I dive into the depths of systems, memory management, and the elegant dance between hardware and software. My mission? To uncover the stories that code tells and craft new ones through thoughtful engineering.
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31xch27rgjs7k4dstc5wtw33omkm">
-    <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Current Spotify Track" width="350" />
-  </a>
-</div>
-
 ---
 
 ## 🔗 Connect & Collaborate:
@@ -91,8 +85,8 @@ I'm Barack—a software engineer obsessed with **understanding the why** behind 
         <div align="center">
           <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="55" /></a>
           <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="55" /></a>
+          <a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" height="55" /></a>
           <a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="55" /></a>
-          <a href="https://www.pulumi.com/" target="_blank"><img style="margin: 10px" src="https://www.pulumi.com/logos/brand/avatar-on-white.svg" alt="Pulumi" height="55" /></a>
         </div>
       </td>
     </tr>
@@ -139,40 +133,47 @@ I'm Barack—a software engineer obsessed with **understanding the why** behind 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Engineering Metrics & Code Stories
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isodevmate&layout=compact&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a&border_color=1e293b&custom_title=Language%20Deep%20Dives" width="38%" alt="Top Languages" />
-
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=isodevmate&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=06b6d4&text_color=e2e8f0&bg_color=0f172a&border_color=1e293b&custom_title=Engineering%20Stats" alt="GitHub Stats" width="56%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=isodevmate&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=06b6d4&text_color=e2e8f0&bg_color=0f172a&border_color=1e293b&custom_title=Engineering%20Stats" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isodevmate&layout=compact&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a&border_color=1e293b&custom_title=Language%20Deep%20Dives" width="48%" alt="Top Languages" />
 </div>
 
-<br><br><br><br><br><br><br><br>
-
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img src="https://streak-stats.demolab.com/?user=isodevmate&theme=transparent&background=0F172A&border=1E293B&ring=38bdf8&fire=06b6d4&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8" alt="Contribution Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isodevmate&theme=nord&text_color=e2e8f0&bg_color=0f172a" width="100%" />
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isodevmate&theme=nord_dark" width="100%" />
 </div>
 
 ---
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Chronicles & Configurations
 
-<div align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; gap: 40px; margin: 30px 0;">
-  <div>
-    <h3 style="color: #38bdf8; margin-bottom: 15px; text-align: center;">🌅 Daily Engineering Journey</h3>
+<div align="center" style="display: flex; justify-content: space-around; margin: 30px 0;">
+  <div style="text-align: center;">
+    <h3 style="color: #38bdf8; margin-bottom: 15px;">🌅 Daily Engineering Journey</h3>
     <a href="https://app.daily.dev/barackouma">
-      <img src="https://api.daily.dev/devcards/03e5b0bff1794c349327ce1bdef21806.png?r=p56" width="350" alt="Barack Ouma's Dev Card"/>
+      <img src="https://api.daily.dev/devcards/03e5b0bff1794c349327ce1bdef21806.png?r=p56" width="300" alt="Barack Ouma's Dev Card"/>
     </a>
   </div>
-
-  <div>
-    <h3 style="color: #38bdf8; margin-bottom: 15px; text-align: center;">🧩 Algorithm Adventures</h3>
+  
+  <div style="text-align: center;">
+    <h3 style="color: #38bdf8; margin-bottom: 15px;">🧩 Algorithm Adventures</h3>
     <a href="https://leetcode.com/isodevmate/">
-      <img src="https://leetcard.jacoblin.cool/isodevmate?width=350&height=250&animation=true&ext=heatmap&theme=nord" alt="Leetcode Stats"/>
+      <img src="https://leetcard.jacoblin.cool/isodevmate?theme=nord&font=Karma&ext=heatmap" width="300" alt="Leetcode Stats"/>
     </a>
   </div>
+</div>
+
+---
+
+## 🎵 Code Soundtrack
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31xch27rgjs7k4dstc5wtw33omkm">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31xch27rgjs7k4dstc5wtw33omkm&cover_image=true&theme=novatorem&show_offline=false&background_color=0f172a&interchange=true&bar_color=38bdf8&bar_color_cover=true" alt="Spotify Now Playing" width="400" />
+  </a>
 </div>
 
 ---
@@ -236,16 +237,6 @@ I'm Barack—a software engineer obsessed with **understanding the why** behind 
     </td>
   </tr>
 </table>
-
----
-
-## 🎵 Code Soundtrack
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31xch27rgjs7k4dstc5wtw33omkm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xch27rgjs7k4dstc5wtw33omkm&count=5&unique=true" alt="Recently Played Tracks" width="400" />
-  </a>
-</div>
 
 ---
 
