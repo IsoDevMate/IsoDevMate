@@ -147,8 +147,9 @@ I'm Barack—a software engineer obsessed with **understanding the why** behind 
   </table>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isodevmate&theme=dark&background=0f172a&border=1e293b&ring=38bdf8&fire=06b6d4&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8&hide_border=true" alt="Contribution Streak" width="100%" />
+<div align="center" style="margin-top: 20px; padding: 20px; background: linear-gradient(135deg, #0c1420 0%, #1a202e 50%, #0f172a 100%); border-radius: 12px; border: 1px solid #334155;">
+  <h3 style="color: #38bdf8; margin-bottom: 15px; text-shadow: 0 0 10px rgba(56, 189, 248, 0.3);">🔥 Contribution Journey</h3>
+  <img src="https://streak-stats.demolab.com/?user=isodevmate&theme=dark&background=0f172a&border=334155&ring=38bdf8&fire=06b6d4&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8&hide_border=false&border_radius=8" alt="GitHub Streak Stats" width="90%" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
