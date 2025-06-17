@@ -135,12 +135,20 @@ I'm Barack—a software engineer obsessed with **understanding the why** behind 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Engineering Metrics & Code Stories
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isodevmate&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=06b6d4&text_color=e2e8f0&bg_color=0f172a&border_color=1e293b&custom_title=Engineering%20Stats" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isodevmate&layout=compact&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a&border_color=1e293b&custom_title=Language%20Deep%20Dives" width="48%" alt="Top Languages" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=isodevmate&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=06b6d4&text_color=e2e8f0&bg_color=0f172a&border_color=1e293b&custom_title=Engineering%20Stats" alt="GitHub Stats" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isodevmate&layout=compact&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a&border_color=1e293b&custom_title=Language%20Deep%20Dives" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isodevmate&theme=dark&background=0f172a&border=1e293b&ring=38bdf8&fire=06b6d4&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8&hide_border=true" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isodevmate&theme=dark&background=0f172a&border=1e293b&ring=38bdf8&fire=06b6d4&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8&hide_border=true" alt="Contribution Streak" width="100%" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
@@ -184,75 +192,70 @@ I'm Barack—a software engineer obsessed with **understanding the why** behind 
 
 ## <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="25"> Featured Engineering Stories
 
-### 🔥 Signature Configurations & Deep Dives
-
 <div align="center">
-  <table width="100%">
+  <table>
     <tr>
-      <td align="center" style="padding: 15px; border: 2px solid #1e293b; border-radius: 8px; background: #0f172a; margin: 10px;">
-        <h4 style="color: #38bdf8; margin: 0;">⚡ My Neovim Lua Configuration</h4>
-        <p style="color: #94a3b8; margin: 5px 0;">Custom-built development environment optimized for deep work</p>
+      <td align="center" width="50%">
+        <h3>🔥 Signature Configurations & Deep Dives</h3>
+        <table width="100%">
+          <tr>
+            <td align="center" style="padding: 15px; border: 2px solid #1e293b; border-radius: 8px; background: #0f172a; margin: 10px;">
+              <h4 style="color: #38bdf8; margin: 0;">⚡ My Neovim Lua Configuration</h4>
+              <p style="color: #94a3b8; margin: 5px 0;">Custom-built development environment optimized for deep work</p>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" style="padding: 15px; border: 2px solid #1e293b; border-radius: 8px; background: #0f172a; margin: 10px;">
+              <h4 style="color: #38bdf8; margin: 0;">🐚 Bash Automation Scripts</h4>
+              <p style="color: #94a3b8; margin: 5px 0;">System administration poetry in shell scripting</p>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" style="padding: 15px; border: 2px solid #1e293b; border-radius: 8px; background: #0f172a; margin: 10px;">
+              <h4 style="color: #38bdf8; margin: 0;">🧠 Memory Management Deep Dive</h4>
+              <p style="color: #94a3b8; margin: 5px 0;">Understanding system resources at the bit level</p>
+            </td>
+          </tr>
+        </table>
       </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 15px; border: 2px solid #1e293b; border-radius: 8px; background: #0f172a; margin: 10px;">
-        <h4 style="color: #38bdf8; margin: 0;">🐚 Bash Automation Scripts</h4>
-        <p style="color: #94a3b8; margin: 5px 0;">System administration poetry in shell scripting</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 15px; border: 2px solid #1e293b; border-radius: 8px; background: #0f172a; margin: 10px;">
-        <h4 style="color: #38bdf8; margin: 0;">🧠 Memory Management Deep Dive</h4>
-        <p style="color: #94a3b8; margin: 5px 0;">Understanding system resources at the bit level</p>
+      <td align="center" width="50%">
+        <h3>📚 Technical Chronicles & Tutorials</h3>
+        <table width="100%">
+          <tr>
+            <td style="padding: 8px; text-align: center;">
+              <a href="https://kodaschool.com/blog/how-to-seamlessly-roll-auth-into-your-react-app-using-firebase-authentication" style="color: #06b6d4; text-decoration: none; font-weight: bold;">🔐 Firebase Authentication Deep Dive</a>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 8px; text-align: center;">
+              <a href="https://kodaschool.com/blog/creaing-interactive-ui-elements-with-framer-motion" style="color: #06b6d4; text-decoration: none; font-weight: bold;">✨ Framer Motion: Physics in UI</a>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 8px; text-align: center;">
+              <a href="https://kodaschool.com/blog/stripe-payments-made-easy-checkout-and-email-automation-with-sendgrid-part-2" style="color: #06b6d4; text-decoration: none; font-weight: bold;">💳 Payment Systems Architecture (Part 2)</a>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 8px; text-align: center;">
+              <a href="https://kodaschool.com/blog/stripe-checkout-intergration-sendgrid-email-notification" style="color: #06b6d4; text-decoration: none; font-weight: bold;">📧 E-commerce Integration Stories</a>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 8px; text-align: center;">
+              <a href="https://kodaschool.com/blog/Intergration-mpesa-daraja-and-daraja-2.0" style="color: #06b6d4; text-decoration: none; font-weight: bold;">📱 African Fintech: M-Pesa & tRPC</a>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 8px; text-align: center;">
+              <a href="https://www.linkedin.com/pulse/lenovo-yoga-7i-journey-from-developer-unwilling-hardware-barack-ouma-s8laf" style="color: #06b6d4; text-decoration: none; font-weight: bold;">💻 Hardware Chronicles: A Developer's Perspective</a>
+            </td>
+          </tr>
+        </table>
       </td>
     </tr>
   </table>
 </div>
-
-### 📚 Technical Chronicles & Tutorials
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td style="padding: 8px; text-align: center;">
-        <a href="https://kodaschool.com/blog/how-to-seamlessly-roll-auth-into-your-react-app-using-firebase-authentication" style="color: #06b6d4; text-decoration: none; font-weight: bold;">🔐 Firebase Authentication Deep Dive</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; text-align: center;">
-        <a href="https://kodaschool.com/blog/creaing-interactive-ui-elements-with-framer-motion" style="color: #06b6d4; text-decoration: none; font-weight: bold;">✨ Framer Motion: Physics in UI</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; text-align: center;">
-        <a href="https://kodaschool.com/blog/stripe-payments-made-easy-checkout-and-email-automation-with-sendgrid-part-2" style="color: #06b6d4; text-decoration: none; font-weight: bold;">💳 Payment Systems Architecture (Part 2)</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; text-align: center;">
-        <a href="https://kodaschool.com/blog/stripe-checkout-intergration-sendgrid-email-notification" style="color: #06b6d4; text-decoration: none; font-weight: bold;">📧 E-commerce Integration Stories</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; text-align: center;">
-        <a href="https://kodaschool.com/blog/Intergration-mpesa-daraja-and-daraja-2.0" style="color: #06b6d4; text-decoration: none; font-weight: bold;">📱 African Fintech: M-Pesa & tRPC</a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 8px; text-align: center;">
-        <a href="https://www.linkedin.com/pulse/lenovo-yoga-7i-journey-from-developer-unwilling-hardware-barack-ouma-s8laf" style="color: #06b6d4; text-decoration: none; font-weight: bold;">💻 Hardware Chronicles: A Developer's Perspective</a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 💭 Engineering Philosophy
-
-> *"Software isn't just logic and syntax—it's archaeology. Every codebase tells the story of decisions made, problems solved, and dreams built. I don't just write code; I craft digital narratives that stand the test of time. The deeper you understand the system, the more elegant your solutions become."*
-
-*When I'm not diving into memory allocations or crafting Lua configurations, you'll find me optimizing my Neovim setup, writing Bash poetry, or exploring the intricate dance between hardware and software. Every system has layers—and every layer has a story.*
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,25:16213e,50:2d4a6b,75:1e3a5f,100:0f172a&height=120&section=footer" width="100%" />
