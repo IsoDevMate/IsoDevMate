@@ -19,7 +19,7 @@
 
 > *"Every system has a story buried in its architecture. Every bug is a plot twist. Every optimization is poetry in motion."*
 
-I'm Barack—a software engineer obsessed with **understanding the why** behind the what. While others build features, I dive into the depths of systems, memory management, and the elegant dance between hardware and software. My mission? To uncover the stories that code tells and craft new ones through thoughtful engineering.
+I'm Barack—a software engineer obsessed with **understanding the why** behind the what.I dive into the depthsthinking in systems , memory management, and the elegant dance between DX and APIS. My mission? To uncover the stories that code tells and craft new ones through thoughtful engineering.
 
 ---
 
