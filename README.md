@@ -189,69 +189,72 @@ I'm Barack—a software engineer obsessed with **understanding the why** behind 
 </div>
 
 ---
-
 ## <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="25"> Featured Engineering Stories
 
-<div align="center">
-  <table>
+<div align="center" style="background: linear-gradient(135deg, #0c1420 0%, #1a202e 50%, #0f172a 100%); padding: 30px; border-radius: 16px; border: 1px solid #334155; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
+  <table style="width: 100%; background: transparent;">
     <tr>
-      <td align="center" width="50%">
-        <h3>🔥 Signature Configurations & Deep Dives</h3>
-        <table width="100%">
-          <tr>
-            <td align="center" style="padding: 15px; border: 2px solid #1e293b; border-radius: 8px; background: #0f172a; margin: 10px;">
-              <h4 style="color: #38bdf8; margin: 0;">⚡ My Neovim Lua Configuration</h4>
-              <p style="color: #94a3b8; margin: 5px 0;">Custom-built development environment optimized for deep work</p>
-            </td>
-          </tr>
-          <tr>
-            <td align="center" style="padding: 15px; border: 2px solid #1e293b; border-radius: 8px; background: #0f172a; margin: 10px;">
-              <h4 style="color: #38bdf8; margin: 0;">🐚 Bash Automation Scripts</h4>
-              <p style="color: #94a3b8; margin: 5px 0;">System administration poetry in shell scripting</p>
-            </td>
-          </tr>
-          <tr>
-            <td align="center" style="padding: 15px; border: 2px solid #1e293b; border-radius: 8px; background: #0f172a; margin: 10px;">
-              <h4 style="color: #38bdf8; margin: 0;">🧠 Memory Management Deep Dive</h4>
-              <p style="color: #94a3b8; margin: 5px 0;">Understanding system resources at the bit level</p>
-            </td>
-          </tr>
-        </table>
+      <td align="center" width="50%" style="vertical-align: top; padding: 0 15px;">
+        <div style="background: linear-gradient(145deg, #1e293b 0%, #0f172a 100%); border-radius: 12px; padding: 20px; border: 1px solid #475569; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+          <h3 style="color: #38bdf8; margin: 0 0 20px 0; text-shadow: 0 0 10px rgba(56, 189, 248, 0.3);">🔥 Signature Configurations & Deep Dives</h3>
+          <table width="100%">
+            <tr>
+              <td align="center" style="padding: 18px; border: 2px solid #334155; border-radius: 12px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); margin: 12px 0; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.05); transition: all 0.3s ease;">
+                <h4 style="color: #60a5fa; margin: 0; text-shadow: 0 0 8px rgba(96, 165, 250, 0.4);">⚡ My Neovim Lua Configuration</h4>
+                <p style="color: #cbd5e1; margin: 8px 0 0 0; font-size: 14px; line-height: 1.5;">Custom-built development environment optimized for deep work</p>
+              </td>
+            </tr>
+            <tr>
+              <td align="center" style="padding: 18px; border: 2px solid #334155; border-radius: 12px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); margin: 12px 0; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.05); transition: all 0.3s ease;">
+                <h4 style="color: #60a5fa; margin: 0; text-shadow: 0 0 8px rgba(96, 165, 250, 0.4);">🐚 Bash Automation Scripts</h4>
+                <p style="color: #cbd5e1; margin: 8px 0 0 0; font-size: 14px; line-height: 1.5;">System administration poetry in shell scripting</p>
+              </td>
+            </tr>
+            <tr>
+              <td align="center" style="padding: 18px; border: 2px solid #334155; border-radius: 12px; background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%); margin: 12px 0; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.05); transition: all 0.3s ease;">
+                <h4 style="color: #60a5fa; margin: 0; text-shadow: 0 0 8px rgba(96, 165, 250, 0.4);">🧠 Memory Management Deep Dive</h4>
+                <p style="color: #cbd5e1; margin: 8px 0 0 0; font-size: 14px; line-height: 1.5;">Understanding system resources at the bit level</p>
+              </td>
+            </tr>
+          </table>
+        </div>
       </td>
-      <td align="center" width="50%">
-        <h3>📚 Technical Chronicles & Tutorials</h3>
-        <table width="100%">
-          <tr>
-            <td style="padding: 8px; text-align: center;">
-              <a href="https://kodaschool.com/blog/how-to-seamlessly-roll-auth-into-your-react-app-using-firebase-authentication" style="color: #06b6d4; text-decoration: none; font-weight: bold;">🔐 Firebase Authentication Deep Dive</a>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding: 8px; text-align: center;">
-              <a href="https://kodaschool.com/blog/creaing-interactive-ui-elements-with-framer-motion" style="color: #06b6d4; text-decoration: none; font-weight: bold;">✨ Framer Motion: Physics in UI</a>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding: 8px; text-align: center;">
-              <a href="https://kodaschool.com/blog/stripe-payments-made-easy-checkout-and-email-automation-with-sendgrid-part-2" style="color: #06b6d4; text-decoration: none; font-weight: bold;">💳 Payment Systems Architecture (Part 2)</a>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding: 8px; text-align: center;">
-              <a href="https://kodaschool.com/blog/stripe-checkout-intergration-sendgrid-email-notification" style="color: #06b6d4; text-decoration: none; font-weight: bold;">📧 E-commerce Integration Stories</a>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding: 8px; text-align: center;">
-              <a href="https://kodaschool.com/blog/Intergration-mpesa-daraja-and-daraja-2.0" style="color: #06b6d4; text-decoration: none; font-weight: bold;">📱 African Fintech: M-Pesa & tRPC</a>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding: 8px; text-align: center;">
-              <a href="https://www.linkedin.com/pulse/lenovo-yoga-7i-journey-from-developer-unwilling-hardware-barack-ouma-s8laf" style="color: #06b6d4; text-decoration: none; font-weight: bold;">💻 Hardware Chronicles: A Developer's Perspective</a>
-            </td>
-          </tr>
-        </table>
+      <td align="center" width="50%" style="vertical-align: top; padding: 0 15px;">
+        <div style="background: linear-gradient(145deg, #1e293b 0%, #0f172a 100%); border-radius: 12px; padding: 20px; border: 1px solid #475569; box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);">
+          <h3 style="color: #38bdf8; margin: 0 0 20px 0; text-shadow: 0 0 10px rgba(56, 189, 248, 0.3);">📚 Technical Chronicles & Tutorials</h3>
+          <table width="100%">
+            <tr>
+              <td style="padding: 12px; text-align: center; background: linear-gradient(135deg, #334155 0%, #1e293b 100%); border-radius: 8px; margin: 8px 0; border: 1px solid #475569; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);">
+                <a href="https://kodaschool.com/blog/how-to-seamlessly-roll-auth-into-your-react-app-using-firebase-authentication" style="color: #22d3ee; text-decoration: none; font-weight: bold; text-shadow: 0 0 6px rgba(34, 211, 238, 0.3); transition: color 0.3s ease;">🔐 Firebase Authentication Deep Dive</a>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding: 12px; text-align: center; background: linear-gradient(135deg, #334155 0%, #1e293b 100%); border-radius: 8px; margin: 8px 0; border: 1px solid #475569; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);">
+                <a href="https://kodaschool.com/blog/creaing-interactive-ui-elements-with-framer-motion" style="color: #22d3ee; text-decoration: none; font-weight: bold; text-shadow: 0 0 6px rgba(34, 211, 238, 0.3); transition: color 0.3s ease;">✨ Framer Motion: Physics in UI</a>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding: 12px; text-align: center; background: linear-gradient(135deg, #334155 0%, #1e293b 100%); border-radius: 8px; margin: 8px 0; border: 1px solid #475569; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);">
+                <a href="https://kodaschool.com/blog/stripe-payments-made-easy-checkout-and-email-automation-with-sendgrid-part-2" style="color: #22d3ee; text-decoration: none; font-weight: bold; text-shadow: 0 0 6px rgba(34, 211, 238, 0.3); transition: color 0.3s ease;">💳 Payment Systems Architecture (Part 2)</a>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding: 12px; text-align: center; background: linear-gradient(135deg, #334155 0%, #1e293b 100%); border-radius: 8px; margin: 8px 0; border: 1px solid #475569; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);">
+                <a href="https://kodaschool.com/blog/stripe-checkout-intergration-sendgrid-email-notification" style="color: #22d3ee; text-decoration: none; font-weight: bold; text-shadow: 0 0 6px rgba(34, 211, 238, 0.3); transition: color 0.3s ease;">📧 E-commerce Integration Stories</a>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding: 12px; text-align: center; background: linear-gradient(135deg, #334155 0%, #1e293b 100%); border-radius: 8px; margin: 8px 0; border: 1px solid #475569; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);">
+                <a href="https://kodaschool.com/blog/Intergration-mpesa-daraja-and-daraja-2.0" style="color: #22d3ee; text-decoration: none; font-weight: bold; text-shadow: 0 0 6px rgba(34, 211, 238, 0.3); transition: color 0.3s ease;">📱 African Fintech: M-Pesa & tRPC</a>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding: 12px; text-align: center; background: linear-gradient(135deg, #334155 0%, #1e293b 100%); border-radius: 8px; margin: 8px 0; border: 1px solid #475569; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);">
+                <a href="https://www.linkedin.com/pulse/lenovo-yoga-7i-journey-from-developer-unwilling-hardware-barack-ouma-s8laf" style="color: #22d3ee; text-decoration: none; font-weight: bold; text-shadow: 0 0 6px rgba(34, 211, 238, 0.3); transition: color 0.3s ease;">💻 Hardware Chronicles: A Developer's Perspective</a>
+              </td>
+            </tr>
+          </table>
+        </div>
       </td>
     </tr>
   </table>
